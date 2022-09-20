@@ -103,7 +103,8 @@ void loop()
 
 ### Output of the simulation :
 
-![My image](Circuit.png)
+<img width="960" alt="Screenshot 2022-09-20 085018" src="https://user-images.githubusercontent.com/75235759/191160409-603e63ce-2fa8-4074-b3b8-2f5eb4cd024f.png">
+
 
 ## RESULT :
 
